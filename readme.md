@@ -1,4 +1,4 @@
-# Who I am?
+# Who am I?
 I'm a ***Fullstack Developer*** oriented to develop of ***backend*** and ***unity*** like a hobby
 
 I always was an interest in computers and coding, I learnt Java when I was 14 years and I used Linux for 2 years
